@@ -19,6 +19,7 @@
 - 📫 const contactame = {
                           linkedin : "https://www.linkedin.com/in/nataliasoledadnavarro/",
                           eMail : "nataliasoledadnavarro@gmail.com"
+                          urlPortfolio : "https://github.com/Nataliasoledadnavarro"
                          }
                          
 - 💬 let sugerencia = "Los y las invito a recorrer mis repositorios. Están destacados los más relevantes. Se reciben aportes!"
