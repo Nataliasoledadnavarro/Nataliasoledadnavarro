@@ -1,6 +1,6 @@
 ### Hola, Soy Naty Navarro! 👋
 ## Bienvenidos y Bienvenidas!
-
+```
 - 🌱 const  sobreMi  =  { 
                           nombre: "Natalia",
                           apellido: "Navarro",
@@ -22,4 +22,4 @@
                          }
                          
 - 💬 let sugerencia = "Los y las invito a recorrer mis repositorios. Están destacados los más relevantes. Se reciben aportes!"
-
+```
