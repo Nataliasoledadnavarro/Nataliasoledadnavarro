@@ -1,5 +1,5 @@
-### Hola, Soy Naty Navarro! 👋
-## Bienvenidos y Bienvenidas!
+## Hola, Soy Naty Navarro! 👋
+### Bienvenidos y Bienvenidas!
 ```
 - 🌱 const  sobreMi  =  { 
                           nombre: "Natalia",
