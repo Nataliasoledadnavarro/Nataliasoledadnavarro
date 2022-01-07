@@ -1,5 +1,5 @@
 <img  src="https://media4.giphy.com/media/dyFizAGD6EnMuWQoyE/giphy.gif?cid=ecf05e478s87wnq7ypne5oninl51b1wyd0wegxz80ue7vsp3&rid=giphy.gif&ct=s" width="100%" height="60px"/>
-<h1 align="center"> Hola, Soy Naty Navarro! <img src="https://media0.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif?cid=ecf05e47uad1pvr48y8pl7a05bl7c3jbo0i57a51vmrpr9dp&rid=giphy.gif&ct=s" alt="gif de gato bailando" width= "40px"/></h1>
+<h1 align="center"> Hola, Soy Naty Navarro! </h1>
 
 
 <h2 align="center">¡Bienvenidos y Bienvenidas!</h2> 
