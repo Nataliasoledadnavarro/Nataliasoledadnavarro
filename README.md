@@ -16,7 +16,7 @@ const sobreMi = {
   estudio: "Ada Itw",
   urlEstudio: "https://adaitw.org/",
   actual: {
-    proyecto: "Buscador de Brawl Stars! Comunicandome con la api: https://brawlapi.com/#/",
+    UrlUltimoProyecto: "https://nataliasoledadnavarro.github.io/Brawl-Stars/",
     aprendiendo: "REACT!",
   }
 }
