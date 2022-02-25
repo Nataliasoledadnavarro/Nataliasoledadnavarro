@@ -18,6 +18,8 @@ const sobreMi = {
   actual: {
     UrlUltimoProyecto: "https://nataliasoledadnavarro.github.io/Brawl-Stars/",
     aprendiendo: "REACT!",
+    UltimoProyectoReact: "https://buscador-rick-and-morty.netlify.app/",
+    TrabajandoEn: ["Tienda-Naty", "Buscador-de-Peliculas"]
   }
 }
 
