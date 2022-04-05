@@ -16,10 +16,9 @@ const sobreMi = {
   estudio: "Ada Itw",
   urlEstudio: "https://adaitw.org/",
   actual: {
-    UrlUltimoProyecto: "https://nataliasoledadnavarro.github.io/Brawl-Stars/",
-    aprendiendo: "REACT!",
-    UltimoProyectoReact: "https://buscador-rick-and-morty.netlify.app/",
-    TrabajandoEn: ["Tienda-Naty", "Buscador-de-Peliculas"]
+    UrlUltimoProyectoJavaScript: "https://nataliasoledadnavarro.github.io/Brawl-Stars/",
+    UltimoProyectoReact: "https://buscadorpeliculasyseries.netlify.app/",
+    TrabajandoEn: ["Tienda-Naty", "profundizandoAlgoritmos"]
   }
 }
 
