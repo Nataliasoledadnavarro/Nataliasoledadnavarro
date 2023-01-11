@@ -9,7 +9,7 @@ const aboutMe = {
   nickname: "Naty",
   rol: ["Desarrolladora Front End", "Psicóloga Social"], 
   technologies: ["HTML", "CSS", "JavaScript","React"],
-  tools: ["GIT", "SCRUM", "API Rest", "Figma", "UX-UI","Bulma", "SASS","Bootstrap", "Material ui"],
+  tools: ["GIT","SCRUM","Jira", "API Rest", "Figma", "UX-UI","Bulma", "SASS","Bootstrap", "Material ui"],
   training: "Ada Itw",
   urlTraining: "https://adaitw.org/",
   current: {
@@ -18,7 +18,7 @@ const aboutMe = {
     working: {
       company:"Eldar",
       rol: "Software engineer", 
-      roleSpecifications: "Desarrolladora Front-End con React js"
+      roleSpecifications: "Desarrolladora Front-End con React js, en múltiples proyectos."
       since:"16/05/2022"
     }
   }
