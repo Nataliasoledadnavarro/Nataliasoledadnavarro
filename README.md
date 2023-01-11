@@ -2,6 +2,7 @@
 <h1 align="center"> Hola, Soy Naty Navarro! </h1> 
 <h2 align="center">¡Bienvenidos y Bienvenidas!</h2> 
 
+```
 const aboutMe = {
   name: "Natalia",
   surname: "Navarro",
