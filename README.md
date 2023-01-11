@@ -1,11 +1,7 @@
-<img  src="https://media4.giphy.com/media/dyFizAGD6EnMuWQoyE/giphy.gif?cid=ecf05e478s87wnq7ypne5oninl51b1wyd0wegxz80ue7vsp3&rid=giphy.gif&ct=s" width="100%" height="60px"/> sobre miapelid
-<h1 align="center"> Hola, Soy Naty Navarro! </h1> tecnologiashe
- apodoocupaocupa
-
+<img  src="https://media4.giphy.com/media/dyFizAGD6EnMuWQoyE/giphy.gif?cid=ecf05e478s87wnq7ypne5oninl51b1wyd0wegxz80ue7vsp3&rid=giphy.gif&ct=s" width="100%" height="60px"/> 
+<h1 align="center"> Hola, Soy Naty Navarro! </h1> 
 <h2 align="center">¡Bienvenidos y Bienvenidas!</h2> 
 
-
-```
 const aboutMe = {
   name: "Natalia",
   surname: "Navarro",
